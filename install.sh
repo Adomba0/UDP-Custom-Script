@@ -82,7 +82,7 @@ cd /etc/Sslablk
 wget https://github.com/noobconner21/UDP-Custom-Script/raw/main/system.zip
 unzip system
 cd /etc/Sslablk/system
-mv menu /usr/local/bin
+mv adom /usr/local/bin
 cd /etc/Sslablk/system
 chmod +x ChangeUser.sh
 chmod +x Adduser.sh
