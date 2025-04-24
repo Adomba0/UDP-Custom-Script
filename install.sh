@@ -91,7 +91,7 @@ chmod +x Userlist.sh
 chmod +x RemoveScript.sh
 chmod +x torrent.sh
 cd /usr/local/bin
-chmod +x menu
+chmod +x adom
 cd /etc/Sslablk
 rm system.zip
 
